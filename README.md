@@ -1,5 +1,7 @@
 # Typescript project boilerplate
 
+## Bash function
+
 ```bash
 # creates a new typescript project starter in the specified directory
 newts() {
