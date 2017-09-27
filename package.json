@@ -1,0 +1,29 @@
+{
+  "name": "typescript-starter",
+  "version": "1.0.0",
+  "description": "Typescript project boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uollazzi/typescript-starter.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "starter",
+    "boilerplate"
+  ],
+  "author": "uollazzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uollazzi/typescript-starter/issues"
+  },
+  "homepage": "https://github.com/uollazzi/typescript-starter#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.31"
+  }
+}
