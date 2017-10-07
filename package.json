@@ -25,9 +25,13 @@
     },
     "homepage": "https://github.com/uollazzi/typescript-starter#readme",
     "devDependencies": {
+        "@types/dotenv": "^4.0.1",
         "@types/node": "^8.0.31",
         "ts-loader": "^2.3.7",
         "typescript": "^2.5.3",
         "webpack-node-externals": "^1.6.0"
+    },
+    "dependencies": {
+        "dotenv": "^4.0.0"
     }
 }
