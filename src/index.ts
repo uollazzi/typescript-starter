@@ -1,4 +1,4 @@
-import * as dotenv from "dotenv";
+import * as dotenv from "dotenv";  // => touch .env
 dotenv.config();
 
 console.log(`It's ${new Date()}`);
