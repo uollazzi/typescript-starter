@@ -27,6 +27,7 @@
     "devDependencies": {
         "@types/node": "^8.0.31",
         "ts-loader": "^2.3.7",
-        "typescript": "^2.5.3"
+        "typescript": "^2.5.3",
+        "webpack-node-externals": "^1.6.0"
     }
 }

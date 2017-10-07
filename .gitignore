@@ -58,6 +58,5 @@ typings/
 .env
 
 # js generated
-**/*.js
-**/*.map.js
+/dist
 
